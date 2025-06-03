@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a fullstack developer. And, hopefully I will end up becoming a software engineer. 
 - 🌱 I’m currently learning fullstack web development.
 - 💞️ I’m looking to collaborate on fullstack app or web development.
-- 📫 You can reach me via email "zazara60@gmail.com"
+- 📫 You can reach me via email "akongswangwongsa@ucsd.edu"
 
 <!---
 Arisan39/Arisan39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
